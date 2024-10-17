@@ -1,2 +1,2 @@
-# git-tutorails
+# git-tutorials
 
